@@ -1,0 +1,6 @@
+C:\Users\Roman\Documents\SOLIDExamples\.vs\OCP\bin\Debug\OCP.exe.config
+C:\Users\Roman\Documents\SOLIDExamples\.vs\OCP\bin\Debug\OCP.exe
+C:\Users\Roman\Documents\SOLIDExamples\.vs\OCP\bin\Debug\OCP.pdb
+C:\Users\Roman\Documents\SOLIDExamples\.vs\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\SOLIDExamples\.vs\OCP\obj\Debug\OCP.exe
+C:\Users\Roman\Documents\SOLIDExamples\.vs\OCP\obj\Debug\OCP.pdb

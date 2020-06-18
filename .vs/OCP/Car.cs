@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SRP
+namespace OCP
 {
-    class Program
+    public class Car
     {
-        static void Main(string[] args)
+        public void ehat()
         {
-            
+            Console.WriteLine("Avto edet");
         }
     }
 }
