@@ -10,16 +10,16 @@ namespace OCP
     {
         static void Main(string[] args)
         {
-            Car car = new Car();
-            Driver driver = new Driver(car);
+            //Car car = new Car();
+            //Driver driver = new Driver(car);
+            //driver.EhatCar();
+
+
+
+            SuperCar superCar = new SuperCar();
+            Driver driver = new Driver(superCar);
             driver.EhatCar();
-
-
-
-            //SuperCar superCar = new SuperCar();
-            //Driver driver = new Driver(superCar);
-            //driver.SuperEhat();
-
+           
 
 
             Console.ReadLine();

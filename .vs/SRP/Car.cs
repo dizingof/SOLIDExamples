@@ -16,6 +16,7 @@ namespace SRP
         public void GetName()
         {
             Console.WriteLine(Nmae);
+            Massa = 100;
         }
 
         public void Go()
